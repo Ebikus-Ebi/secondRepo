@@ -1,0 +1,11 @@
+Git Commands Taught in today's class
+
+1. cd => Change directory
+2. pwd => Shows curren directory
+3. git clone => Clone a repository
+4. ls => List all documents in the folder
+5. git add => add files saved to the repository folder on local computer
+6. git status => check if files have been added
+7. cd "Folder name" => Change directory to a particular folder
+8. git commit -m "type message here" => Serves as a time stamp. It keeps mark of a particular changes that can be referenced back to.
+9. git push => Uploads/pushes files and changes made to the repository in cloud.
